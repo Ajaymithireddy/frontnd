@@ -8,8 +8,8 @@
 /* Base styles */
 body {
   font-family: var(--font-family-base);
-  margin: 0;
-  padding: 0;
+  margin: 100;
+  padding: 100;
 }
 
 /* App navbar */
