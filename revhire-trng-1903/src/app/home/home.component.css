@@ -1,6 +1,6 @@
 /* Variables */
 :root {
-  --primary-color: #3f51b5;
+  --primary-color: #3f;
   --font-family-base: 'Roboto', sans-serif;
   --border-radius: 4px;
 }
@@ -34,7 +34,7 @@ body {
 
 .sub-header {
   color: #555; /* Subheader color */
-  margin-bottom: 30px;
+  margin-bottom: 300px;
 }
 
 .feature-list {
